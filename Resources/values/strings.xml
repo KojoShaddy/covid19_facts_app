@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CovidFactsApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="fact_text">Click Button To Learn A New Fact !</string>
+    <string name="btn_fact_text">NEW FACT</string>
+ 
+</resources>
